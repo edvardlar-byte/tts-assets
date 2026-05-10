@@ -63,8 +63,8 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-          "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+          "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+          "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
           "NumWidth": 10,
           "NumHeight": 5,
           "BackIsHidden": true,
@@ -79,8 +79,8 @@
           "CardID": 100,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -102,12 +102,12 @@
         {
           "Name": "Card",
           "Nickname": "Biotender",
-          "Description": "If this tile has a food-generating installation, this troop does not consume food during upkeep.",
+          "Description": "[survivor]\nIf this tile has a food-generating installation, this troop does not consume food during upkeep.",
           "CardID": 101,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -129,12 +129,12 @@
         {
           "Name": "Card",
           "Nickname": "Partial-Pressure Cowl",
-          "Description": "[stealth]\nScout checks targeting the tile where this troop is stationed are reduced by 2.",
+          "Description": "[armor]\nScout checks targeting the tile where this troop is stationed are reduced by 2.",
           "CardID": 102,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -160,8 +160,8 @@
           "CardID": 103,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -183,12 +183,12 @@
         {
           "Name": "Card",
           "Nickname": "Clear Skies over Hellas",
-          "Description": "",
+          "Description": "[ambition]",
           "CardID": 104,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -210,12 +210,12 @@
         {
           "Name": "Card",
           "Nickname": "Pale Raven",
-          "Description": "[biological;intel]\nThis troop may scout any tile on the map, not only adjacent tiles.",
+          "Description": "[equipment;biological]\nThis troop may scout any tile on the map, not only adjacent tiles.",
           "CardID": 105,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -237,12 +237,12 @@
         {
           "Name": "Card",
           "Nickname": "Loper Run",
-          "Description": "[logistics]\nMove any number of friendly troops to an adjacent tile.",
+          "Description": "[event;logistics]\nMove any number of friendly troops to an adjacent tile.",
           "CardID": 106,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -264,12 +264,12 @@
         {
           "Name": "Card",
           "Nickname": "Canopy Watchtower",
-          "Description": "[manned;defensive;intel]\nScout checks made from this tile gain +2. Fortification of this tile increases by 1.",
+          "Description": "[manned;defensive]\nScout checks made from this tile gain +2. Fortification of this tile increases by 1.",
           "CardID": 107,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -291,12 +291,12 @@
         {
           "Name": "Card",
           "Nickname": "Steady breath",
-          "Description": "",
+          "Description": "[ambition]",
           "CardID": 108,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -318,12 +318,12 @@
         {
           "Name": "Card",
           "Nickname": "Gene-tailoring Technician",
-          "Description": "[supply]\nAt income: if this tile has at least one installation, add 1 supply to this tile.",
+          "Description": "[survivor]\nAt income: if this tile has at least one installation, add 1 supply to this tile.",
           "CardID": 109,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -345,12 +345,12 @@
         {
           "Name": "Card",
           "Nickname": "War-bred Scarp Hound",
-          "Description": "[biological]",
+          "Description": "[equipment;biological]",
           "CardID": 110,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -372,12 +372,12 @@
         {
           "Name": "Card",
           "Nickname": "Adaptive Biotextile Vats",
-          "Description": "[supply]\nAt income: this tile generates +1 supply.",
+          "Description": "[supplies]\nAt income: this tile generates +1 supply.",
           "CardID": 111,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -399,12 +399,12 @@
         {
           "Name": "Card",
           "Nickname": "Controlled Burn",
-          "Description": "[supply]\nAdd 2 supply to this tile. Destroy one outer-zone installation at an adjacent enemy-controlled tile.",
+          "Description": "[supplies]\nAdd 2 supply to this tile. Destroy one outer-zone installation at an adjacent enemy-controlled tile.",
           "CardID": 112,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -426,12 +426,12 @@
         {
           "Name": "Card",
           "Nickname": "Full adaptation",
-          "Description": "",
+          "Description": "[ambition]",
           "CardID": 113,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -453,12 +453,12 @@
         {
           "Name": "Card",
           "Nickname": "Ranger",
-          "Description": "[intel]\nThis troop may perform scouting checks on tiles up to 2 nodes away.",
+          "Description": "[survivor]\nThis troop may perform scouting checks on tiles up to 2 nodes away.",
           "CardID": 114,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -480,12 +480,12 @@
         {
           "Name": "Card",
           "Nickname": "Neurotoxin Blowpipe",
-          "Description": "[ranged]\nRanged. Add at end of round 1: 1x Reload.",
+          "Description": "[weapon;ranged]\nRanged. Add at end of round 1: 1x Reload.",
           "CardID": 115,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -507,12 +507,12 @@
         {
           "Name": "Card",
           "Nickname": "Loper Stag",
-          "Description": "[biological;light]\nThis troop may move to any adjacent tile without spending a click, once per turn.",
+          "Description": "[vehicle;biological;light]\nThis troop may move to any adjacent tile without spending a click, once per turn.",
           "CardID": 116,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -534,12 +534,12 @@
         {
           "Name": "Card",
           "Nickname": "Forest Relay Network",
-          "Description": "[intel;stealth]\nScout checks made from this tile gain +1. Scout checks targeting this tile are reduced by 1.",
+          "Description": "[defensive;logistics]\nScout checks made from this tile gain +1. Scout checks targeting this tile are reduced by 1.",
           "CardID": 117,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -561,12 +561,12 @@
         {
           "Name": "Card",
           "Nickname": "The Wilderness Reclaims",
-          "Description": "",
+          "Description": "[ambition]",
           "CardID": 118,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -588,12 +588,12 @@
         {
           "Name": "Card",
           "Nickname": "Reworked BX Seeder Unit",
-          "Description": "[droid;food]\nIf this tile has a food-generating installation, generate +1 food during income.",
+          "Description": "[droid]\nIf this tile has a food-generating installation, generate +1 food during income.",
           "CardID": 119,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -615,12 +615,12 @@
         {
           "Name": "Card",
           "Nickname": "Crustech Breach Spear",
-          "Description": "[melee]",
+          "Description": "[weapon;melee]",
           "CardID": 120,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -642,12 +642,12 @@
         {
           "Name": "Card",
           "Nickname": "Atmospheric Sensor Array",
-          "Description": "[intel]\nScouting checks this troop makes gain +2.",
+          "Description": "[equipment;utility]\nScouting checks this troop makes gain +2.",
           "CardID": 121,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -673,8 +673,8 @@
           "CardID": 122,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -700,8 +700,8 @@
           "CardID": 123,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -723,12 +723,12 @@
         {
           "Name": "Card",
           "Nickname": "Rail Runner",
-          "Description": "[logistics]\nWhen this troop moves, they may also move up to 3 supply from their origin tile to their destination tile, in addition to their normal carry capacity.",
+          "Description": "When this troop moves, they may also move up to 3 supply from their origin tile to their destination tile, in addition to their normal carry capacity.",
           "CardID": 124,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -750,12 +750,12 @@
         {
           "Name": "Card",
           "Nickname": "Palladin XF Magrail Carbine",
-          "Description": "[ranged]\nRanged. Add at end of round 1: 2x Reload.",
+          "Description": "Ranged. Add at end of round 1: 2x Reload.",
           "CardID": 125,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -777,12 +777,12 @@
         {
           "Name": "Card",
           "Nickname": "Subcrust Transit Hub",
-          "Description": "[logistics]\nAt income: move up to 2 troops from this tile to any adjacent controlled tile.",
+          "Description": "At income: move up to 2 troops from this tile to any adjacent controlled tile.",
           "CardID": 126,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -804,12 +804,12 @@
         {
           "Name": "Card",
           "Nickname": "Subcrust Dispersal",
-          "Description": "[logistics]\nMove any amount of food or supply from this tile to any adjacent tiles.",
+          "Description": "Move any amount of food or supply from this tile to any adjacent tiles.",
           "CardID": 127,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -835,8 +835,8 @@
           "CardID": 128,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -858,12 +858,12 @@
         {
           "Name": "Card",
           "Nickname": "Repurposed Elysium BX3 Hauler",
-          "Description": "[logistics]\nThis troop's carry capacity is 8 instead of the default 3.",
+          "Description": "This troop's carry capacity is 8 instead of the default 3.",
           "CardID": 129,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -885,12 +885,12 @@
         {
           "Name": "Card",
           "Nickname": "Ironclad TC5 Exosuit",
-          "Description": "[supply;exosuit]\nWhen the equipped troop raids successfully, add 1 supply to their current tile.",
+          "Description": "When the equipped troop raids successfully, add 1 supply to their current tile.",
           "CardID": 130,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -912,12 +912,12 @@
         {
           "Name": "Card",
           "Nickname": "Hexapod Ore-Crawler",
-          "Description": "[heavy;logistics]\nThis troop's carry capacity is increased by 4.",
+          "Description": "This troop's carry capacity is increased by 4.",
           "CardID": 131,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -939,12 +939,12 @@
         {
           "Name": "Card",
           "Nickname": "Emergency Rations",
-          "Description": "[food]\nAdd 4 food to this tile.",
+          "Description": "Add 4 food to this tile.",
           "CardID": 132,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -970,8 +970,8 @@
           "CardID": 133,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -993,12 +993,12 @@
         {
           "Name": "Card",
           "Nickname": "Ranger",
-          "Description": "[intel]\nThis troop may perform scouting checks on tiles up to 2 nodes away.",
+          "Description": "[survivor]\nThis troop may perform scouting checks on tiles up to 2 nodes away.",
           "CardID": 134,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1020,12 +1020,12 @@
         {
           "Name": "Card",
           "Nickname": "Ranger",
-          "Description": "[intel]\nThis troop may perform scouting checks on tiles up to 2 nodes away.",
+          "Description": "[survivor]\nThis troop may perform scouting checks on tiles up to 2 nodes away.",
           "CardID": 135,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1047,12 +1047,12 @@
         {
           "Name": "Card",
           "Nickname": "Gene-tailoring Technician",
-          "Description": "[supply]\nAt income: if this tile has at least one installation, add 1 supply to this tile.",
+          "Description": "[survivor]\nAt income: if this tile has at least one installation, add 1 supply to this tile.",
           "CardID": 136,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1074,12 +1074,12 @@
         {
           "Name": "Card",
           "Nickname": "Gene-tailoring Technician",
-          "Description": "[supply]\nAt income: if this tile has at least one installation, add 1 supply to this tile.",
+          "Description": "[survivor]\nAt income: if this tile has at least one installation, add 1 supply to this tile.",
           "CardID": 137,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1101,12 +1101,12 @@
         {
           "Name": "Card",
           "Nickname": "Biotender",
-          "Description": "If this tile has a food-generating installation, this troop does not consume food during upkeep.",
+          "Description": "[survivor]\nIf this tile has a food-generating installation, this troop does not consume food during upkeep.",
           "CardID": 138,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1128,12 +1128,12 @@
         {
           "Name": "Card",
           "Nickname": "Biotender",
-          "Description": "If this tile has a food-generating installation, this troop does not consume food during upkeep.",
+          "Description": "[survivor]\nIf this tile has a food-generating installation, this troop does not consume food during upkeep.",
           "CardID": 139,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1155,12 +1155,12 @@
         {
           "Name": "Card",
           "Nickname": "Atmospheric Sensor Array",
-          "Description": "[intel]\nScouting checks this troop makes gain +2.",
+          "Description": "[equipment;utility]\nScouting checks this troop makes gain +2.",
           "CardID": 140,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1182,12 +1182,12 @@
         {
           "Name": "Card",
           "Nickname": "Atmospheric Sensor Array",
-          "Description": "[intel]\nScouting checks this troop makes gain +2.",
+          "Description": "[equipment;utility]\nScouting checks this troop makes gain +2.",
           "CardID": 141,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1209,12 +1209,12 @@
         {
           "Name": "Card",
           "Nickname": "Loper Run",
-          "Description": "[logistics]\nMove any number of friendly troops to an adjacent tile.",
+          "Description": "[event;logistics]\nMove any number of friendly troops to an adjacent tile.",
           "CardID": 142,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1236,12 +1236,12 @@
         {
           "Name": "Card",
           "Nickname": "Loper Run",
-          "Description": "[logistics]\nMove any number of friendly troops to an adjacent tile.",
+          "Description": "[event;logistics]\nMove any number of friendly troops to an adjacent tile.",
           "CardID": 143,
           "CustomDeck": {
             "1": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1265,12 +1265,12 @@
     {
       "Name": "Card",
       "Nickname": "Maren Tull, Breath Reader \u2605",
-      "Description": "LEADER \u2014 pre-deployed\n[leader;unique;intel]\nScouting checks this troop makes gain +2. When this troop scouts with result >= 8, draw 1 card.",
+      "Description": "LEADER \u2014 pre-deployed\n[survivor;leader;unique]\nScouting checks this troop makes gain +2. When this troop scouts with result >= 8, draw 1 card.",
       "CardID": 144,
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://127.0.0.1:8765/sheets/FBC_Playtest_sheet.jpg",
-          "BackURL": "http://127.0.0.1:8765/back_FBC_Playtest.png",
+          "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/FBC_Playtest_sheet.jpg",
+          "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_FBC_Playtest.png",
           "NumWidth": 10,
           "NumHeight": 5,
           "BackIsHidden": true,
@@ -1351,8 +1351,8 @@
       ],
       "CustomDeck": {
         "2": {
-          "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-          "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+          "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+          "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
           "NumWidth": 10,
           "NumHeight": 5,
           "BackIsHidden": true,
@@ -1367,8 +1367,8 @@
           "CardID": 200,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1390,12 +1390,12 @@
         {
           "Name": "Card",
           "Nickname": "Palladin Standard Carbine",
-          "Description": "[ranged]\nRanged. Add at end of round 1: 1x Reload.",
+          "Description": "Ranged. Add at end of round 1: 1x Reload.",
           "CardID": 201,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1417,12 +1417,12 @@
         {
           "Name": "Card",
           "Nickname": "Efficiency Infrastructure",
-          "Description": "[supply;logistics]\nAt income: this tile generates +1 supply. Move 1 supply from this tile to any adjacent controlled tile.",
+          "Description": "At income: this tile generates +1 supply. Move 1 supply from this tile to any adjacent controlled tile.",
           "CardID": 202,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1444,12 +1444,12 @@
         {
           "Name": "Card",
           "Nickname": "Fermented Nutrient Paste",
-          "Description": "[food;logistics]\nAdd 3 food, distributed freely across any controlled tiles.",
+          "Description": "Add 3 food, distributed freely across any controlled tiles.",
           "CardID": 203,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1475,8 +1475,8 @@
           "CardID": 204,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1498,12 +1498,12 @@
         {
           "Name": "Card",
           "Nickname": "Earth-made Mandate Seal",
-          "Description": "[intel]\nScouting checks this troop makes gain +2.",
+          "Description": "Scouting checks this troop makes gain +2.",
           "CardID": 205,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1525,12 +1525,12 @@
         {
           "Name": "Card",
           "Nickname": "Micronutrient Distributor",
-          "Description": "[food;logistics]\nAt income: this tile generates +1 food. Move 1 food from this tile to any adjacent controlled tile.",
+          "Description": "At income: this tile generates +1 food. Move 1 food from this tile to any adjacent controlled tile.",
           "CardID": 206,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1552,12 +1552,12 @@
         {
           "Name": "Card",
           "Nickname": "Modular assembly",
-          "Description": "[supply]\nSearch your deck for a supply-generating installation and install it at this tile at no supply cost.",
+          "Description": "Search your deck for a supply-generating installation and install it at this tile at no supply cost.",
           "CardID": 207,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1583,8 +1583,8 @@
           "CardID": 208,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1606,12 +1606,12 @@
         {
           "Name": "Card",
           "Nickname": "Survey Technician",
-          "Description": "[intel]\nScouting checks at this location gain +2.",
+          "Description": "Scouting checks at this location gain +2.",
           "CardID": 209,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1633,12 +1633,12 @@
         {
           "Name": "Card",
           "Nickname": "Signal Relay Array",
-          "Description": "[intel;logistics]\nScout checks made from this tile gain +1. At income: move 1 supply from this tile to any adjacent controlled tile.",
+          "Description": "[outer_zone]\nScout checks made from this tile gain +1. At income: move 1 supply from this tile to any adjacent controlled tile.",
           "CardID": 210,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1660,12 +1660,12 @@
         {
           "Name": "Card",
           "Nickname": "Palladin Ballistic Weave Vest",
-          "Description": "Armor. Occupies armor slot.",
+          "Description": "[armor]\nArmor. Occupies armor slot.",
           "CardID": 211,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1687,12 +1687,12 @@
         {
           "Name": "Card",
           "Nickname": "Territorial Survey",
-          "Description": "[intel;supply]\nPerform a scouting check with +2. On a partial or full result (8+), gain 1 supply at this location.",
+          "Description": "Perform a scouting check with +2. On a partial or full result (8+), gain 1 supply at this location.",
           "CardID": 212,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1718,8 +1718,8 @@
           "CardID": 213,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1745,8 +1745,8 @@
           "CardID": 214,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1768,12 +1768,12 @@
         {
           "Name": "Card",
           "Nickname": "MK-2 Suppression Baton",
-          "Description": "[melee]",
+          "Description": "",
           "CardID": 215,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1795,12 +1795,12 @@
         {
           "Name": "Card",
           "Nickname": "Enforcement Checkpoint",
-          "Description": "[manned;defensive]\n+1 fortification to this location. When this location is raided, the manning troop draws 1 additional combat card in the first round of combat.",
+          "Description": "[outer_zone, manned]\n+1 fortification to this location. When this location is raided, the manning troop draws 1 additional combat card in the first round of combat.",
           "CardID": 216,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1826,8 +1826,8 @@
           "CardID": 217,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1853,8 +1853,8 @@
           "CardID": 218,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1876,12 +1876,12 @@
         {
           "Name": "Card",
           "Nickname": "Logistics Coordinator Droid",
-          "Description": "[droid;logistics]\nDuring income, you may move 1 food or supply from this troop's location to an adjacent controlled location.",
+          "Description": "[droid]\nDuring income, you may move 1 food or supply from this troop's location to an adjacent controlled location.",
           "CardID": 219,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1903,12 +1903,12 @@
         {
           "Name": "Card",
           "Nickname": "BX3 Colonial Transit Exocrawler",
-          "Description": "[heavy;logistics]\nThis troop may carry any number of resources when moving.",
+          "Description": "This troop may carry any number of resources when moving.",
           "CardID": 220,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1930,12 +1930,12 @@
         {
           "Name": "Card",
           "Nickname": "Logistics Drone Hub",
-          "Description": "[logistics]\nAt income: move 1 supply from any controlled location to any controlled location.",
+          "Description": "[inner_zone]\nAt income: move 1 supply from any controlled location to any controlled location.",
           "CardID": 221,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1957,12 +1957,12 @@
         {
           "Name": "Card",
           "Nickname": "Automated Circulation",
-          "Description": "[food;logistics]\nRedistribute any number of food freely across all controlled locations.",
+          "Description": "Redistribute any number of food freely across all controlled locations.",
           "CardID": 222,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1988,8 +1988,8 @@
           "CardID": 223,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2011,12 +2011,12 @@
         {
           "Name": "Card",
           "Nickname": "Observational Researcher",
-          "Description": "[intel]\nWhen this troop performs an investigation, regardless of outcome, reveal one inner-zone installation at the target location.",
+          "Description": "When this troop performs an investigation, regardless of outcome, reveal one inner-zone installation at the target location.",
           "CardID": 224,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2038,12 +2038,12 @@
         {
           "Name": "Card",
           "Nickname": "Deep Scan Antenna",
-          "Description": "[intel]\nScouting checks made from this location can target any location.",
+          "Description": "[outer_zone]\nScouting checks made from this location can target any location.",
           "CardID": 225,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2069,8 +2069,8 @@
           "CardID": 226,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2096,8 +2096,8 @@
           "CardID": 227,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2123,8 +2123,8 @@
           "CardID": 228,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2150,8 +2150,8 @@
           "CardID": 229,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2173,12 +2173,12 @@
         {
           "Name": "Card",
           "Nickname": "Xentech Gravslip Rifle XM-4",
-          "Description": "[ranged]\nRanged. Add at end of round 1: 1x Reload.",
+          "Description": "Ranged. Add at end of round 1: 1x Reload.",
           "CardID": 230,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2200,12 +2200,12 @@
         {
           "Name": "Card",
           "Nickname": "Geodata Vault",
-          "Description": "At income: look at the top 2 cards of your deck. You may put them back in any order, or discard 1 and put 1 back.",
+          "Description": "[inner_zone]\nAt income: look at the top 2 cards of your deck. You may put them back in any order, or discard 1 and put 1 back.",
           "CardID": 231,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2227,12 +2227,12 @@
         {
           "Name": "Card",
           "Nickname": "Reserve Funding",
-          "Description": "[supply]\nGenerate 2 supply at this location. You may discard 1 card to generate 2 additional supply at any controlled location.",
+          "Description": "Generate 2 supply at this location. You may discard 1 card to generate 2 additional supply at any controlled location.",
           "CardID": 232,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2258,8 +2258,8 @@
           "CardID": 233,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2285,8 +2285,8 @@
           "CardID": 234,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2312,8 +2312,8 @@
           "CardID": 235,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2335,12 +2335,12 @@
         {
           "Name": "Card",
           "Nickname": "Logistics Coordinator Droid",
-          "Description": "[droid;logistics]\nDuring income, you may move 1 food or supply from this troop's location to an adjacent controlled location.",
+          "Description": "[droid]\nDuring income, you may move 1 food or supply from this troop's location to an adjacent controlled location.",
           "CardID": 236,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2362,12 +2362,12 @@
         {
           "Name": "Card",
           "Nickname": "Logistics Coordinator Droid",
-          "Description": "[droid;logistics]\nDuring income, you may move 1 food or supply from this troop's location to an adjacent controlled location.",
+          "Description": "[droid]\nDuring income, you may move 1 food or supply from this troop's location to an adjacent controlled location.",
           "CardID": 237,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2389,12 +2389,12 @@
         {
           "Name": "Card",
           "Nickname": "Palladin Standard Carbine",
-          "Description": "[ranged]\nRanged. Add at end of round 1: 1x Reload.",
+          "Description": "Ranged. Add at end of round 1: 1x Reload.",
           "CardID": 238,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2416,12 +2416,12 @@
         {
           "Name": "Card",
           "Nickname": "Palladin Standard Carbine",
-          "Description": "[ranged]\nRanged. Add at end of round 1: 1x Reload.",
+          "Description": "Ranged. Add at end of round 1: 1x Reload.",
           "CardID": 239,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2443,12 +2443,12 @@
         {
           "Name": "Card",
           "Nickname": "Enforcement Checkpoint",
-          "Description": "[manned;defensive]\n+1 fortification to this location. When this location is raided, the manning troop draws 1 additional combat card in the first round of combat.",
+          "Description": "[outer_zone, manned]\n+1 fortification to this location. When this location is raided, the manning troop draws 1 additional combat card in the first round of combat.",
           "CardID": 240,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2470,12 +2470,12 @@
         {
           "Name": "Card",
           "Nickname": "Enforcement Checkpoint",
-          "Description": "[manned;defensive]\n+1 fortification to this location. When this location is raided, the manning troop draws 1 additional combat card in the first round of combat.",
+          "Description": "[outer_zone, manned]\n+1 fortification to this location. When this location is raided, the manning troop draws 1 additional combat card in the first round of combat.",
           "CardID": 241,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2497,12 +2497,12 @@
         {
           "Name": "Card",
           "Nickname": "Survey Technician",
-          "Description": "[intel]\nScouting checks at this location gain +2.",
+          "Description": "Scouting checks at this location gain +2.",
           "CardID": 242,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2524,12 +2524,12 @@
         {
           "Name": "Card",
           "Nickname": "Survey Technician",
-          "Description": "[intel]\nScouting checks at this location gain +2.",
+          "Description": "Scouting checks at this location gain +2.",
           "CardID": 243,
           "CustomDeck": {
             "2": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -2553,12 +2553,12 @@
     {
       "Name": "Card",
       "Nickname": "Reeve Sokol, Chief Comissioner \u2605",
-      "Description": "LEADER \u2014 pre-deployed\n[leader;unique]\nWhen you install a card at this tile, draw 1 card from your deck.",
+      "Description": "LEADER \u2014 pre-deployed\n[]\nWhen you install a card at this tile, draw 1 card from your deck.",
       "CardID": 244,
       "CustomDeck": {
         "2": {
-          "FaceURL": "http://127.0.0.1:8765/sheets/TCM_Playtest_sheet.jpg",
-          "BackURL": "http://127.0.0.1:8765/back_TCM_Playtest.png",
+          "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/TCM_Playtest_sheet.jpg",
+          "BackURL": "https://edvardlar-byte.github.io/tts-assets/back_TCM_Playtest.png",
           "NumWidth": 10,
           "NumHeight": 5,
           "BackIsHidden": true,
@@ -2592,8 +2592,8 @@
         "scaleZ": 12.8
       },
       "CustomImage": {
-        "ImageURL": "http://127.0.0.1:8765/board.jpg",
-        "ImageSecondaryURL": "http://127.0.0.1:8765/board.jpg",
+        "ImageURL": "https://edvardlar-byte.github.io/tts-assets/board.jpg",
+        "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/board.jpg",
         "Type": 2,
         "Thickness": 0.1,
         "Stackable": false,
@@ -2616,8 +2616,8 @@
         "scaleZ": 3.24
       },
       "CustomImage": {
-        "ImageURL": "http://127.0.0.1:8765/tiles/l1.png",
-        "ImageSecondaryURL": "http://127.0.0.1:8765/tiles/l1.png",
+        "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l1.png",
+        "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l1.png",
         "Type": 2,
         "Thickness": 0.1,
         "Stackable": false,
@@ -2640,8 +2640,8 @@
         "scaleZ": 3.24
       },
       "CustomImage": {
-        "ImageURL": "http://127.0.0.1:8765/tiles/l2.png",
-        "ImageSecondaryURL": "http://127.0.0.1:8765/tiles/l2.png",
+        "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l2.png",
+        "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l2.png",
         "Type": 2,
         "Thickness": 0.1,
         "Stackable": false,
@@ -2664,8 +2664,8 @@
         "scaleZ": 3.24
       },
       "CustomImage": {
-        "ImageURL": "http://127.0.0.1:8765/tiles/l3.png",
-        "ImageSecondaryURL": "http://127.0.0.1:8765/tiles/l3.png",
+        "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l3.png",
+        "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l3.png",
         "Type": 2,
         "Thickness": 0.1,
         "Stackable": false,
@@ -2688,8 +2688,8 @@
         "scaleZ": 3.24
       },
       "CustomImage": {
-        "ImageURL": "http://127.0.0.1:8765/tiles/l4.png",
-        "ImageSecondaryURL": "http://127.0.0.1:8765/tiles/l4.png",
+        "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l4.png",
+        "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l4.png",
         "Type": 2,
         "Thickness": 0.1,
         "Stackable": false,
@@ -2699,7 +2699,7 @@
     {
       "Name": "Custom_Tile",
       "Nickname": "Noctis Administrative Nexus",
-      "Description": "[home_base]  Fort 2  |  Food 2  |  Supply 1",
+      "Description": "[home_base]  stats pending",
       "Transform": {
         "posX": 12.7,
         "posY": 1,
@@ -2712,8 +2712,8 @@
         "scaleZ": 3.24
       },
       "CustomImage": {
-        "ImageURL": "http://127.0.0.1:8765/tiles/l7.png",
-        "ImageSecondaryURL": "http://127.0.0.1:8765/tiles/l7.png",
+        "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l7.png",
+        "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l7.png",
         "Type": 2,
         "Thickness": 0.1,
         "Stackable": false,
@@ -2723,7 +2723,7 @@
     {
       "Name": "Custom_Tile",
       "Nickname": "Continental Survey Post",
-      "Description": "[location]  Fort 1  |  Food 0  |  Supply 1",
+      "Description": "[location]  stats pending",
       "Transform": {
         "posX": 15.9,
         "posY": 1,
@@ -2736,8 +2736,8 @@
         "scaleZ": 3.24
       },
       "CustomImage": {
-        "ImageURL": "http://127.0.0.1:8765/tiles/l8.png",
-        "ImageSecondaryURL": "http://127.0.0.1:8765/tiles/l8.png",
+        "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l8.png",
+        "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l8.png",
         "Type": 2,
         "Thickness": 0.1,
         "Stackable": false,
@@ -2747,7 +2747,7 @@
     {
       "Name": "Custom_Tile",
       "Nickname": "The Bradbury Atheneum",
-      "Description": "[home_base]  Fort 2  |  Food 2  |  Supply 1",
+      "Description": "[home_base]  stats pending",
       "Transform": {
         "posX": 9.5,
         "posY": 1,
@@ -2760,8 +2760,8 @@
         "scaleZ": 3.24
       },
       "CustomImage": {
-        "ImageURL": "http://127.0.0.1:8765/tiles/l9.png",
-        "ImageSecondaryURL": "http://127.0.0.1:8765/tiles/l9.png",
+        "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l9.png",
+        "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l9.png",
         "Type": 2,
         "Thickness": 0.1,
         "Stackable": false,
@@ -2771,7 +2771,7 @@
     {
       "Name": "Custom_Tile",
       "Nickname": "The Kepler Array",
-      "Description": "[location]  Fort 1  |  Food 0  |  Supply 1",
+      "Description": "[location]  stats pending",
       "Transform": {
         "posX": 12.7,
         "posY": 1,
@@ -2784,8 +2784,8 @@
         "scaleZ": 3.24
       },
       "CustomImage": {
-        "ImageURL": "http://127.0.0.1:8765/tiles/l10.png",
-        "ImageSecondaryURL": "http://127.0.0.1:8765/tiles/l10.png",
+        "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l10.png",
+        "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l10.png",
         "Type": 2,
         "Thickness": 0.1,
         "Stackable": false,
@@ -2808,8 +2808,8 @@
         "scaleZ": 3.24
       },
       "CustomImage": {
-        "ImageURL": "http://127.0.0.1:8765/tiles/l13.png",
-        "ImageSecondaryURL": "http://127.0.0.1:8765/tiles/l13.png",
+        "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l13.png",
+        "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l13.png",
         "Type": 2,
         "Thickness": 0.1,
         "Stackable": false,
@@ -2832,8 +2832,8 @@
         "scaleZ": 3.24
       },
       "CustomImage": {
-        "ImageURL": "http://127.0.0.1:8765/tiles/l14.png",
-        "ImageSecondaryURL": "http://127.0.0.1:8765/tiles/l14.png",
+        "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l14.png",
+        "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l14.png",
         "Type": 2,
         "Thickness": 0.1,
         "Stackable": false,
@@ -2856,8 +2856,8 @@
         "scaleZ": 3.24
       },
       "CustomImage": {
-        "ImageURL": "http://127.0.0.1:8765/tiles/l15.png",
-        "ImageSecondaryURL": "http://127.0.0.1:8765/tiles/l15.png",
+        "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l15.png",
+        "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l15.png",
         "Type": 2,
         "Thickness": 0.1,
         "Stackable": false,
@@ -2899,8 +2899,8 @@
             "scaleZ": 0.6
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/supply.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/supply.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/supply.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/supply.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -2944,8 +2944,8 @@
             "scaleZ": 0.6
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/food.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/food.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/food.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/food.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -2985,8 +2985,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3009,8 +3009,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3033,8 +3033,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3057,8 +3057,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3081,8 +3081,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3105,8 +3105,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3129,8 +3129,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3153,8 +3153,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3177,8 +3177,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3201,8 +3201,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3225,8 +3225,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3249,8 +3249,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3273,8 +3273,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3297,8 +3297,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3321,8 +3321,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3345,8 +3345,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3369,8 +3369,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3393,8 +3393,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3417,8 +3417,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3441,8 +3441,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3465,8 +3465,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3489,8 +3489,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3513,8 +3513,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3537,8 +3537,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3561,8 +3561,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3585,8 +3585,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3609,8 +3609,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3633,8 +3633,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3657,8 +3657,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3681,8 +3681,8 @@
             "scaleZ": 0.7
           },
           "CustomImage": {
-            "ImageURL": "http://127.0.0.1:8765/tokens/wound.png",
-            "ImageSecondaryURL": "http://127.0.0.1:8765/tokens/wound.png",
+            "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
+            "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tokens/wound.png",
             "Type": 2,
             "Thickness": 0.2,
             "MergeDistancePixels": 15,
@@ -3707,8 +3707,8 @@
         "scaleZ": 3.84
       },
       "CustomImage": {
-        "ImageURL": "http://127.0.0.1:8765/combat_mat.jpg",
-        "ImageSecondaryURL": "http://127.0.0.1:8765/combat_mat.jpg",
+        "ImageURL": "https://edvardlar-byte.github.io/tts-assets/combat_mat.jpg",
+        "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/combat_mat.jpg",
         "Type": 2,
         "Thickness": 0.1,
         "Stackable": false,
@@ -3754,8 +3754,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -3781,8 +3781,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -3808,8 +3808,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -3835,8 +3835,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -3862,8 +3862,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -3889,8 +3889,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -3916,8 +3916,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -3943,8 +3943,8 @@
               "CardID": 1005,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -3988,8 +3988,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4015,8 +4015,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4042,8 +4042,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4069,8 +4069,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4096,8 +4096,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4123,8 +4123,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4150,8 +4150,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4177,8 +4177,8 @@
               "CardID": 1007,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4222,8 +4222,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4249,8 +4249,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4276,8 +4276,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4303,8 +4303,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4330,8 +4330,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4357,8 +4357,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4384,8 +4384,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4411,8 +4411,8 @@
               "CardID": 1009,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4456,8 +4456,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4483,8 +4483,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4510,8 +4510,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4537,8 +4537,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4564,8 +4564,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4591,8 +4591,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4618,8 +4618,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4645,8 +4645,8 @@
               "CardID": 1014,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4690,8 +4690,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4717,8 +4717,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4744,8 +4744,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4771,8 +4771,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4798,8 +4798,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4825,8 +4825,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4852,8 +4852,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4879,8 +4879,8 @@
               "CardID": 1025,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4924,8 +4924,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4951,8 +4951,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -4978,8 +4978,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5005,8 +5005,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5032,8 +5032,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5059,8 +5059,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5086,8 +5086,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5113,8 +5113,8 @@
               "CardID": 1031,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5158,8 +5158,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5185,8 +5185,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5212,8 +5212,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5239,8 +5239,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5266,8 +5266,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5293,8 +5293,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5320,8 +5320,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5347,8 +5347,8 @@
               "CardID": 1003,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5374,8 +5374,8 @@
               "CardID": 1003,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5419,8 +5419,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5446,8 +5446,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5473,8 +5473,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5500,8 +5500,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5527,8 +5527,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5554,8 +5554,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5581,8 +5581,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5608,8 +5608,8 @@
               "CardID": 1051,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5653,8 +5653,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5680,8 +5680,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5707,8 +5707,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5734,8 +5734,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5761,8 +5761,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5788,8 +5788,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5815,8 +5815,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5842,8 +5842,8 @@
               "CardID": 1055,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5887,8 +5887,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5914,8 +5914,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5941,8 +5941,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5968,8 +5968,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -5995,8 +5995,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6022,8 +6022,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6049,8 +6049,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6076,8 +6076,8 @@
               "CardID": 1058,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6121,8 +6121,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6148,8 +6148,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6175,8 +6175,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6202,8 +6202,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6229,8 +6229,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6256,8 +6256,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6283,8 +6283,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6310,8 +6310,8 @@
               "CardID": 1061,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6355,8 +6355,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6382,8 +6382,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6409,8 +6409,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6436,8 +6436,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6463,8 +6463,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6490,8 +6490,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6517,8 +6517,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6544,8 +6544,8 @@
               "CardID": 1069,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6589,8 +6589,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6616,8 +6616,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6643,8 +6643,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6670,8 +6670,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6697,8 +6697,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6724,8 +6724,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6751,8 +6751,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6778,8 +6778,8 @@
               "CardID": 1071,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6823,8 +6823,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6850,8 +6850,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6877,8 +6877,8 @@
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6904,8 +6904,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6931,8 +6931,8 @@
               "CardID": 1001,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6958,8 +6958,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -6985,8 +6985,8 @@
               "CardID": 1002,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -7012,8 +7012,8 @@
               "CardID": 1053,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -7039,8 +7039,8 @@
               "CardID": 1053,
               "CustomDeck": {
                 "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+                  "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
                   "NumWidth": 10,
                   "NumHeight": 8,
                   "BackIsHidden": true,
@@ -7086,8 +7086,8 @@
           "CardID": 1057,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7113,8 +7113,8 @@
           "CardID": 1057,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7140,8 +7140,8 @@
           "CardID": 1057,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7167,8 +7167,8 @@
           "CardID": 1059,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7194,8 +7194,8 @@
           "CardID": 1059,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7221,8 +7221,8 @@
           "CardID": 1059,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7248,8 +7248,8 @@
           "CardID": 1015,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7275,8 +7275,8 @@
           "CardID": 1015,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7302,8 +7302,8 @@
           "CardID": 1015,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7329,8 +7329,8 @@
           "CardID": 1063,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7356,8 +7356,8 @@
           "CardID": 1063,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7383,8 +7383,8 @@
           "CardID": 1063,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7410,8 +7410,8 @@
           "CardID": 1035,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7437,8 +7437,8 @@
           "CardID": 1035,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7464,8 +7464,8 @@
           "CardID": 1035,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7491,8 +7491,8 @@
           "CardID": 1073,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7518,8 +7518,8 @@
           "CardID": 1073,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7545,8 +7545,8 @@
           "CardID": 1073,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7572,8 +7572,8 @@
           "CardID": 1072,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7599,8 +7599,8 @@
           "CardID": 1072,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7626,8 +7626,8 @@
           "CardID": 1072,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7653,8 +7653,8 @@
           "CardID": 1036,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7680,8 +7680,8 @@
           "CardID": 1036,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7707,8 +7707,8 @@
           "CardID": 1036,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7734,8 +7734,8 @@
           "CardID": 1008,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7761,8 +7761,8 @@
           "CardID": 1008,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7788,8 +7788,8 @@
           "CardID": 1008,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7815,8 +7815,8 @@
           "CardID": 1013,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7842,8 +7842,8 @@
           "CardID": 1013,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7869,8 +7869,8 @@
           "CardID": 1013,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7896,8 +7896,8 @@
           "CardID": 1011,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7923,8 +7923,8 @@
           "CardID": 1011,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7950,8 +7950,8 @@
           "CardID": 1011,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -7977,8 +7977,8 @@
           "CardID": 1012,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8004,8 +8004,8 @@
           "CardID": 1012,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8031,8 +8031,8 @@
           "CardID": 1012,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8058,8 +8058,8 @@
           "CardID": 1026,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8085,8 +8085,8 @@
           "CardID": 1026,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8112,8 +8112,8 @@
           "CardID": 1026,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8139,8 +8139,8 @@
           "CardID": 1054,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8166,8 +8166,8 @@
           "CardID": 1054,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8193,8 +8193,8 @@
           "CardID": 1054,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8220,8 +8220,8 @@
           "CardID": 1010,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8247,8 +8247,8 @@
           "CardID": 1010,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8274,8 +8274,8 @@
           "CardID": 1010,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8301,8 +8301,8 @@
           "CardID": 1037,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8328,8 +8328,8 @@
           "CardID": 1037,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8355,8 +8355,8 @@
           "CardID": 1037,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8382,8 +8382,8 @@
           "CardID": 1004,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8409,8 +8409,8 @@
           "CardID": 1004,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8436,8 +8436,8 @@
           "CardID": 1004,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8463,8 +8463,8 @@
           "CardID": 1006,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8490,8 +8490,8 @@
           "CardID": 1006,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8517,8 +8517,8 @@
           "CardID": 1006,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8544,8 +8544,8 @@
           "CardID": 1017,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8571,8 +8571,8 @@
           "CardID": 1017,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8598,8 +8598,8 @@
           "CardID": 1017,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8625,8 +8625,8 @@
           "CardID": 1016,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8652,8 +8652,8 @@
           "CardID": 1016,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8679,8 +8679,8 @@
           "CardID": 1016,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8706,8 +8706,8 @@
           "CardID": 1052,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8733,8 +8733,8 @@
           "CardID": 1052,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8760,8 +8760,8 @@
           "CardID": 1052,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8787,8 +8787,8 @@
           "CardID": 1060,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8814,8 +8814,8 @@
           "CardID": 1060,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8841,8 +8841,8 @@
           "CardID": 1060,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8868,8 +8868,8 @@
           "CardID": 1034,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8895,8 +8895,8 @@
           "CardID": 1034,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8922,8 +8922,8 @@
           "CardID": 1034,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8949,8 +8949,8 @@
           "CardID": 1033,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -8976,8 +8976,8 @@
           "CardID": 1033,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -9003,8 +9003,8 @@
           "CardID": 1033,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -9030,8 +9030,8 @@
           "CardID": 1032,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -9057,8 +9057,8 @@
           "CardID": 1032,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -9084,8 +9084,8 @@
           "CardID": 1032,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -9111,8 +9111,8 @@
           "CardID": 1062,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -9138,8 +9138,8 @@
           "CardID": 1062,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -9165,8 +9165,8 @@
           "CardID": 1062,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -9192,8 +9192,8 @@
           "CardID": 1070,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -9219,8 +9219,8 @@
           "CardID": 1070,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
@@ -9246,8 +9246,8 @@
           "CardID": 1070,
           "CustomDeck": {
             "10": {
-              "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-              "BackURL": "http://127.0.0.1:8765/back.png",
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
               "NumWidth": 10,
               "NumHeight": 8,
               "BackIsHidden": true,
