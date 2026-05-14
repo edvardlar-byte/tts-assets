@@ -2618,7 +2618,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l1.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l1.png",
-        "Type": 2,
+        "Type": 1,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2642,7 +2642,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l2.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l2.png",
-        "Type": 2,
+        "Type": 1,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2666,7 +2666,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l3.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l3.png",
-        "Type": 2,
+        "Type": 1,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2690,7 +2690,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l4.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l4.png",
-        "Type": 2,
+        "Type": 1,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2714,7 +2714,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l7.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l7.png",
-        "Type": 2,
+        "Type": 1,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2738,7 +2738,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l8.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l8.png",
-        "Type": 2,
+        "Type": 1,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2762,7 +2762,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l9.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l9.png",
-        "Type": 2,
+        "Type": 1,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2786,7 +2786,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l10.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l10.png",
-        "Type": 2,
+        "Type": 1,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2810,7 +2810,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l13.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l13.png",
-        "Type": 2,
+        "Type": 1,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2834,7 +2834,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l14.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l14.png",
-        "Type": 2,
+        "Type": 1,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2858,7 +2858,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l15.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l15.png",
-        "Type": 2,
+        "Type": 1,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -4642,7 +4642,7 @@
               "Name": "Card",
               "Nickname": "Hydraulic Slam",
               "Description": "Assault | Value 4 | Off-lane -2",
-              "CardID": 1014,
+              "CardID": 1013,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -4876,7 +4876,7 @@
               "Name": "Card",
               "Nickname": "Full Sprint",
               "Description": "Momentum | Value 4 | Off-lane -1",
-              "CardID": 1025,
+              "CardID": 1024,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -5110,7 +5110,7 @@
               "Name": "Card",
               "Nickname": "Haul and Heave",
               "Description": "Assault | Value 4 | Off-lane -2",
-              "CardID": 1031,
+              "CardID": 1030,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -5605,7 +5605,7 @@
               "Name": "Card",
               "Nickname": "Servo Drive",
               "Description": "Assault | Value 4 | Off-lane -1",
-              "CardID": 1051,
+              "CardID": 1050,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -5839,7 +5839,7 @@
               "Name": "Card",
               "Nickname": "Survey Blind",
               "Description": "Cover | Value 4 | Off-lane -1",
-              "CardID": 1055,
+              "CardID": 1054,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -6073,7 +6073,7 @@
               "Name": "Card",
               "Nickname": "Marshal's Baton",
               "Description": "Assault | Value 3 | Off-lane -1",
-              "CardID": 1058,
+              "CardID": 1057,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -6307,7 +6307,7 @@
               "Name": "Card",
               "Nickname": "Coordinator Override",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1061,
+              "CardID": 1060,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -6541,7 +6541,7 @@
               "Name": "Card",
               "Nickname": "Study Weakness",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1069,
+              "CardID": 1068,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -6775,7 +6775,7 @@
               "Name": "Card",
               "Nickname": "Field Analysis",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1071,
+              "CardID": 1070,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7009,7 +7009,7 @@
               "Name": "Card",
               "Nickname": "Commissioner's Authority",
               "Description": "Momentum | Value 4 | Off-lane -1\nIf this side wins Momentum this round, one enemy troop draws 1 fewer card next round.",
-              "CardID": 1053,
+              "CardID": 1052,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7036,7 +7036,7 @@
               "Name": "Card",
               "Nickname": "Commissioner's Authority",
               "Description": "Momentum | Value 4 | Off-lane -1\nIf this side wins Momentum this round, one enemy troop draws 1 fewer card next round.",
-              "CardID": 1053,
+              "CardID": 1052,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7083,7 +7083,7 @@
           "Name": "Card",
           "Nickname": "Ballistic Plate",
           "Description": "Cover | Value 4 | Off-lane -1",
-          "CardID": 1057,
+          "CardID": 1056,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7110,7 +7110,7 @@
           "Name": "Card",
           "Nickname": "Ballistic Plate",
           "Description": "Cover | Value 4 | Off-lane -1",
-          "CardID": 1057,
+          "CardID": 1056,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7137,7 +7137,7 @@
           "Name": "Card",
           "Nickname": "Ballistic Plate",
           "Description": "Cover | Value 4 | Off-lane -1",
-          "CardID": 1057,
+          "CardID": 1056,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7164,7 +7164,7 @@
           "Name": "Card",
           "Nickname": "Baton Strike",
           "Description": "Assault | Value 3 | Off-lane -1",
-          "CardID": 1059,
+          "CardID": 1058,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7191,7 +7191,7 @@
           "Name": "Card",
           "Nickname": "Baton Strike",
           "Description": "Assault | Value 3 | Off-lane -1",
-          "CardID": 1059,
+          "CardID": 1058,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7218,7 +7218,7 @@
           "Name": "Card",
           "Nickname": "Baton Strike",
           "Description": "Assault | Value 3 | Off-lane -1",
-          "CardID": 1059,
+          "CardID": 1058,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7245,7 +7245,7 @@
           "Name": "Card",
           "Nickname": "Breach Thrust",
           "Description": "Assault | Value 5 | Off-lane -2",
-          "CardID": 1015,
+          "CardID": 1014,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7272,7 +7272,7 @@
           "Name": "Card",
           "Nickname": "Breach Thrust",
           "Description": "Assault | Value 5 | Off-lane -2",
-          "CardID": 1015,
+          "CardID": 1014,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7299,7 +7299,7 @@
           "Name": "Card",
           "Nickname": "Breach Thrust",
           "Description": "Assault | Value 5 | Off-lane -2",
-          "CardID": 1015,
+          "CardID": 1014,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7326,7 +7326,7 @@
           "Name": "Card",
           "Nickname": "Clunky Reposition",
           "Description": "Momentum | Value 0 | Off-lane +0",
-          "CardID": 1063,
+          "CardID": 1062,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7353,7 +7353,7 @@
           "Name": "Card",
           "Nickname": "Clunky Reposition",
           "Description": "Momentum | Value 0 | Off-lane +0",
-          "CardID": 1063,
+          "CardID": 1062,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7380,7 +7380,7 @@
           "Name": "Card",
           "Nickname": "Clunky Reposition",
           "Description": "Momentum | Value 0 | Off-lane +0",
-          "CardID": 1063,
+          "CardID": 1062,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7407,7 +7407,7 @@
           "Name": "Card",
           "Nickname": "Crawler Ram",
           "Description": "Assault | Value 5 | Off-lane -2",
-          "CardID": 1035,
+          "CardID": 1034,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7434,7 +7434,7 @@
           "Name": "Card",
           "Nickname": "Crawler Ram",
           "Description": "Assault | Value 5 | Off-lane -2",
-          "CardID": 1035,
+          "CardID": 1034,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7461,7 +7461,7 @@
           "Name": "Card",
           "Nickname": "Crawler Ram",
           "Description": "Assault | Value 5 | Off-lane -2",
-          "CardID": 1035,
+          "CardID": 1034,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7488,7 +7488,7 @@
           "Name": "Card",
           "Nickname": "Gravslip Burst",
           "Description": "Assault | Value 3 | Off-lane +0\nIf your side won Momentum this round, your opponent discards a card of their choice after next round's card draw.",
-          "CardID": 1073,
+          "CardID": 1072,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7515,7 +7515,7 @@
           "Name": "Card",
           "Nickname": "Gravslip Burst",
           "Description": "Assault | Value 3 | Off-lane +0\nIf your side won Momentum this round, your opponent discards a card of their choice after next round's card draw.",
-          "CardID": 1073,
+          "CardID": 1072,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7542,33 +7542,6 @@
           "Name": "Card",
           "Nickname": "Gravslip Burst",
           "Description": "Assault | Value 3 | Off-lane +0\nIf your side won Momentum this round, your opponent discards a card of their choice after next round's card draw.",
-          "CardID": 1073,
-          "CustomDeck": {
-            "10": {
-              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
-              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
-              "NumWidth": 10,
-              "NumHeight": 8,
-              "BackIsHidden": true,
-              "UniqueBack": false
-            }
-          },
-          "Transform": {
-            "posX": 0,
-            "posY": 1,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 0,
-            "rotZ": 0,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          }
-        },
-        {
-          "Name": "Card",
-          "Nickname": "Gravslip Shot",
-          "Description": "Assault | Value 4 | Off-lane -1\nIf you inflict a wound this combat phase, you choose which defending troop receives the wound.",
           "CardID": 1072,
           "CustomDeck": {
             "10": {
@@ -7596,7 +7569,7 @@
           "Name": "Card",
           "Nickname": "Gravslip Shot",
           "Description": "Assault | Value 4 | Off-lane -1\nIf you inflict a wound this combat phase, you choose which defending troop receives the wound.",
-          "CardID": 1072,
+          "CardID": 1071,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7623,7 +7596,34 @@
           "Name": "Card",
           "Nickname": "Gravslip Shot",
           "Description": "Assault | Value 4 | Off-lane -1\nIf you inflict a wound this combat phase, you choose which defending troop receives the wound.",
-          "CardID": 1072,
+          "CardID": 1071,
+          "CustomDeck": {
+            "10": {
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
+              "NumWidth": 10,
+              "NumHeight": 8,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "Transform": {
+            "posX": 0,
+            "posY": 1,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 0,
+            "rotZ": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "Name": "Card",
+          "Nickname": "Gravslip Shot",
+          "Description": "Assault | Value 4 | Off-lane -1\nIf you inflict a wound this combat phase, you choose which defending troop receives the wound.",
+          "CardID": 1071,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7650,7 +7650,7 @@
           "Name": "Card",
           "Nickname": "Hexapod Surge",
           "Description": "Momentum | Value 4 | Off-lane -1\nIf this side wins Momentum this round, this troop may move to an adjacent controlled tile at the end of this combat round.",
-          "CardID": 1036,
+          "CardID": 1035,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7677,7 +7677,7 @@
           "Name": "Card",
           "Nickname": "Hexapod Surge",
           "Description": "Momentum | Value 4 | Off-lane -1\nIf this side wins Momentum this round, this troop may move to an adjacent controlled tile at the end of this combat round.",
-          "CardID": 1036,
+          "CardID": 1035,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7704,7 +7704,7 @@
           "Name": "Card",
           "Nickname": "Hexapod Surge",
           "Description": "Momentum | Value 4 | Off-lane -1\nIf this side wins Momentum this round, this troop may move to an adjacent controlled tile at the end of this combat round.",
-          "CardID": 1036,
+          "CardID": 1035,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7812,7 +7812,7 @@
           "Name": "Card",
           "Nickname": "Loper Bulk",
           "Description": "Cover | Value 4 | Off-lane -2",
-          "CardID": 1013,
+          "CardID": 1012,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7839,7 +7839,7 @@
           "Name": "Card",
           "Nickname": "Loper Bulk",
           "Description": "Cover | Value 4 | Off-lane -2",
-          "CardID": 1013,
+          "CardID": 1012,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -7866,114 +7866,6 @@
           "Name": "Card",
           "Nickname": "Loper Bulk",
           "Description": "Cover | Value 4 | Off-lane -2",
-          "CardID": 1013,
-          "CustomDeck": {
-            "10": {
-              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
-              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
-              "NumWidth": 10,
-              "NumHeight": 8,
-              "BackIsHidden": true,
-              "UniqueBack": false
-            }
-          },
-          "Transform": {
-            "posX": 0,
-            "posY": 1,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 0,
-            "rotZ": 0,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          }
-        },
-        {
-          "Name": "Card",
-          "Nickname": "Loper Charge",
-          "Description": "Assault | Value 5 | Off-lane -2",
-          "CardID": 1011,
-          "CustomDeck": {
-            "10": {
-              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
-              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
-              "NumWidth": 10,
-              "NumHeight": 8,
-              "BackIsHidden": true,
-              "UniqueBack": false
-            }
-          },
-          "Transform": {
-            "posX": 0,
-            "posY": 1,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 0,
-            "rotZ": 0,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          }
-        },
-        {
-          "Name": "Card",
-          "Nickname": "Loper Charge",
-          "Description": "Assault | Value 5 | Off-lane -2",
-          "CardID": 1011,
-          "CustomDeck": {
-            "10": {
-              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
-              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
-              "NumWidth": 10,
-              "NumHeight": 8,
-              "BackIsHidden": true,
-              "UniqueBack": false
-            }
-          },
-          "Transform": {
-            "posX": 0,
-            "posY": 1,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 0,
-            "rotZ": 0,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          }
-        },
-        {
-          "Name": "Card",
-          "Nickname": "Loper Charge",
-          "Description": "Assault | Value 5 | Off-lane -2",
-          "CardID": 1011,
-          "CustomDeck": {
-            "10": {
-              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
-              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
-              "NumWidth": 10,
-              "NumHeight": 8,
-              "BackIsHidden": true,
-              "UniqueBack": false
-            }
-          },
-          "Transform": {
-            "posX": 0,
-            "posY": 1,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 0,
-            "rotZ": 0,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          }
-        },
-        {
-          "Name": "Card",
-          "Nickname": "Loper Gallop",
-          "Description": "Momentum | Value 4 | Off-lane -1",
           "CardID": 1012,
           "CustomDeck": {
             "10": {
@@ -8001,7 +7893,7 @@
           "Name": "Card",
           "Nickname": "Loper Gallop",
           "Description": "Momentum | Value 4 | Off-lane -1",
-          "CardID": 1012,
+          "CardID": 1011,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8028,7 +7920,34 @@
           "Name": "Card",
           "Nickname": "Loper Gallop",
           "Description": "Momentum | Value 4 | Off-lane -1",
-          "CardID": 1012,
+          "CardID": 1011,
+          "CustomDeck": {
+            "10": {
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
+              "NumWidth": 10,
+              "NumHeight": 8,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "Transform": {
+            "posX": 0,
+            "posY": 1,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 0,
+            "rotZ": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "Name": "Card",
+          "Nickname": "Loper Gallop",
+          "Description": "Momentum | Value 4 | Off-lane -1",
+          "CardID": 1011,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8055,7 +7974,7 @@
           "Name": "Card",
           "Nickname": "Magrail Shot",
           "Description": "Assault | Value 5 | Off-lane -2",
-          "CardID": 1026,
+          "CardID": 1025,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8082,7 +8001,7 @@
           "Name": "Card",
           "Nickname": "Magrail Shot",
           "Description": "Assault | Value 5 | Off-lane -2",
-          "CardID": 1026,
+          "CardID": 1025,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8109,7 +8028,7 @@
           "Name": "Card",
           "Nickname": "Magrail Shot",
           "Description": "Assault | Value 5 | Off-lane -2",
-          "CardID": 1026,
+          "CardID": 1025,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8136,7 +8055,7 @@
           "Name": "Card",
           "Nickname": "Mandate Shield",
           "Description": "Cover | Value 4 | Off-lane -2",
-          "CardID": 1054,
+          "CardID": 1053,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8163,7 +8082,7 @@
           "Name": "Card",
           "Nickname": "Mandate Shield",
           "Description": "Cover | Value 4 | Off-lane -2",
-          "CardID": 1054,
+          "CardID": 1053,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8190,7 +8109,7 @@
           "Name": "Card",
           "Nickname": "Mandate Shield",
           "Description": "Cover | Value 4 | Off-lane -2",
-          "CardID": 1054,
+          "CardID": 1053,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8298,7 +8217,7 @@
           "Name": "Card",
           "Nickname": "Ore Dust",
           "Description": "Cover | Value 3 | Off-lane -2\nIf your Cover total exceeds the opponent's Assault total this round, one enemy troop draws 1 fewer card next round.",
-          "CardID": 1037,
+          "CardID": 1036,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8325,7 +8244,7 @@
           "Name": "Card",
           "Nickname": "Ore Dust",
           "Description": "Cover | Value 3 | Off-lane -2\nIf your Cover total exceeds the opponent's Assault total this round, one enemy troop draws 1 fewer card next round.",
-          "CardID": 1037,
+          "CardID": 1036,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8352,7 +8271,7 @@
           "Name": "Card",
           "Nickname": "Ore Dust",
           "Description": "Cover | Value 3 | Off-lane -2\nIf your Cover total exceeds the opponent's Assault total this round, one enemy troop draws 1 fewer card next round.",
-          "CardID": 1037,
+          "CardID": 1036,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8541,7 +8460,7 @@
           "Name": "Card",
           "Nickname": "Sensor Ping",
           "Description": "Momentum | Value 4 | Off-lane -1",
-          "CardID": 1017,
+          "CardID": 1016,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8568,7 +8487,7 @@
           "Name": "Card",
           "Nickname": "Sensor Ping",
           "Description": "Momentum | Value 4 | Off-lane -1",
-          "CardID": 1017,
+          "CardID": 1016,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8595,33 +8514,6 @@
           "Name": "Card",
           "Nickname": "Sensor Ping",
           "Description": "Momentum | Value 4 | Off-lane -1",
-          "CardID": 1017,
-          "CustomDeck": {
-            "10": {
-              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
-              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
-              "NumWidth": 10,
-              "NumHeight": 8,
-              "BackIsHidden": true,
-              "UniqueBack": false
-            }
-          },
-          "Transform": {
-            "posX": 0,
-            "posY": 1,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 0,
-            "rotZ": 0,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          }
-        },
-        {
-          "Name": "Card",
-          "Nickname": "Spear Brace",
-          "Description": "Cover | Value 4 | Off-lane -2\nIf this side wins Cover this round, add 1 wound to one enemy troop.",
           "CardID": 1016,
           "CustomDeck": {
             "10": {
@@ -8649,7 +8541,7 @@
           "Name": "Card",
           "Nickname": "Spear Brace",
           "Description": "Cover | Value 4 | Off-lane -2\nIf this side wins Cover this round, add 1 wound to one enemy troop.",
-          "CardID": 1016,
+          "CardID": 1015,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8676,7 +8568,34 @@
           "Name": "Card",
           "Nickname": "Spear Brace",
           "Description": "Cover | Value 4 | Off-lane -2\nIf this side wins Cover this round, add 1 wound to one enemy troop.",
-          "CardID": 1016,
+          "CardID": 1015,
+          "CustomDeck": {
+            "10": {
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
+              "NumWidth": 10,
+              "NumHeight": 8,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "Transform": {
+            "posX": 0,
+            "posY": 1,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 0,
+            "rotZ": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "Name": "Card",
+          "Nickname": "Spear Brace",
+          "Description": "Cover | Value 4 | Off-lane -2\nIf this side wins Cover this round, add 1 wound to one enemy troop.",
+          "CardID": 1015,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8703,7 +8622,7 @@
           "Name": "Card",
           "Nickname": "Standard Shot",
           "Description": "Assault | Value 4 | Off-lane -2",
-          "CardID": 1052,
+          "CardID": 1051,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8730,7 +8649,7 @@
           "Name": "Card",
           "Nickname": "Standard Shot",
           "Description": "Assault | Value 4 | Off-lane -2",
-          "CardID": 1052,
+          "CardID": 1051,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8757,7 +8676,7 @@
           "Name": "Card",
           "Nickname": "Standard Shot",
           "Description": "Assault | Value 4 | Off-lane -2",
-          "CardID": 1052,
+          "CardID": 1051,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8784,7 +8703,7 @@
           "Name": "Card",
           "Nickname": "Suppression Sweep",
           "Description": "Assault | Value 2 | Off-lane +0\nIf your Assault exceeds opponent's Cover this round, select one enemy troop to draw 1 fewer combat card next round (minimum 1).",
-          "CardID": 1060,
+          "CardID": 1059,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8811,7 +8730,7 @@
           "Name": "Card",
           "Nickname": "Suppression Sweep",
           "Description": "Assault | Value 2 | Off-lane +0\nIf your Assault exceeds opponent's Cover this round, select one enemy troop to draw 1 fewer combat card next round (minimum 1).",
-          "CardID": 1060,
+          "CardID": 1059,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8838,7 +8757,7 @@
           "Name": "Card",
           "Nickname": "Suppression Sweep",
           "Description": "Assault | Value 2 | Off-lane +0\nIf your Assault exceeds opponent's Cover this round, select one enemy troop to draw 1 fewer combat card next round (minimum 1).",
-          "CardID": 1060,
+          "CardID": 1059,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8865,7 +8784,7 @@
           "Name": "Card",
           "Nickname": "TC5 Advance",
           "Description": "Momentum | Value 4 | Off-lane -1",
-          "CardID": 1034,
+          "CardID": 1033,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8892,7 +8811,7 @@
           "Name": "Card",
           "Nickname": "TC5 Advance",
           "Description": "Momentum | Value 4 | Off-lane -1",
-          "CardID": 1034,
+          "CardID": 1033,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -8919,33 +8838,6 @@
           "Name": "Card",
           "Nickname": "TC5 Advance",
           "Description": "Momentum | Value 4 | Off-lane -1",
-          "CardID": 1034,
-          "CustomDeck": {
-            "10": {
-              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
-              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
-              "NumWidth": 10,
-              "NumHeight": 8,
-              "BackIsHidden": true,
-              "UniqueBack": false
-            }
-          },
-          "Transform": {
-            "posX": 0,
-            "posY": 1,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 0,
-            "rotZ": 0,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          }
-        },
-        {
-          "Name": "Card",
-          "Nickname": "TC5 Guard",
-          "Description": "Cover | Value 5 | Off-lane -2",
           "CardID": 1033,
           "CustomDeck": {
             "10": {
@@ -8973,7 +8865,7 @@
           "Name": "Card",
           "Nickname": "TC5 Guard",
           "Description": "Cover | Value 5 | Off-lane -2",
-          "CardID": 1033,
+          "CardID": 1032,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -9000,7 +8892,7 @@
           "Name": "Card",
           "Nickname": "TC5 Guard",
           "Description": "Cover | Value 5 | Off-lane -2",
-          "CardID": 1033,
+          "CardID": 1032,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -9025,8 +8917,8 @@
         },
         {
           "Name": "Card",
-          "Nickname": "TC5 Strike",
-          "Description": "Assault | Value 4 | Off-lane -2",
+          "Nickname": "TC5 Guard",
+          "Description": "Cover | Value 5 | Off-lane -2",
           "CardID": 1032,
           "CustomDeck": {
             "10": {
@@ -9054,7 +8946,7 @@
           "Name": "Card",
           "Nickname": "TC5 Strike",
           "Description": "Assault | Value 4 | Off-lane -2",
-          "CardID": 1032,
+          "CardID": 1031,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -9081,7 +8973,34 @@
           "Name": "Card",
           "Nickname": "TC5 Strike",
           "Description": "Assault | Value 4 | Off-lane -2",
-          "CardID": 1032,
+          "CardID": 1031,
+          "CustomDeck": {
+            "10": {
+              "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
+              "BackURL": "https://edvardlar-byte.github.io/tts-assets/back.png",
+              "NumWidth": 10,
+              "NumHeight": 8,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "Transform": {
+            "posX": 0,
+            "posY": 1,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 0,
+            "rotZ": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "Name": "Card",
+          "Nickname": "TC5 Strike",
+          "Description": "Assault | Value 4 | Off-lane -2",
+          "CardID": 1031,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -9108,7 +9027,7 @@
           "Name": "Card",
           "Nickname": "Transit Brace",
           "Description": "Cover | Value 3 | Off-lane -2",
-          "CardID": 1062,
+          "CardID": 1061,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -9135,7 +9054,7 @@
           "Name": "Card",
           "Nickname": "Transit Brace",
           "Description": "Cover | Value 3 | Off-lane -2",
-          "CardID": 1062,
+          "CardID": 1061,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -9162,7 +9081,7 @@
           "Name": "Card",
           "Nickname": "Transit Brace",
           "Description": "Cover | Value 3 | Off-lane -2",
-          "CardID": 1062,
+          "CardID": 1061,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -9189,7 +9108,7 @@
           "Name": "Card",
           "Nickname": "Visor Scan",
           "Description": "Momentum | Value 3 | Off-lane -1",
-          "CardID": 1070,
+          "CardID": 1069,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -9216,7 +9135,7 @@
           "Name": "Card",
           "Nickname": "Visor Scan",
           "Description": "Momentum | Value 3 | Off-lane -1",
-          "CardID": 1070,
+          "CardID": 1069,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
@@ -9243,7 +9162,7 @@
           "Name": "Card",
           "Nickname": "Visor Scan",
           "Description": "Momentum | Value 3 | Off-lane -1",
-          "CardID": 1070,
+          "CardID": 1069,
           "CustomDeck": {
             "10": {
               "FaceURL": "https://edvardlar-byte.github.io/tts-assets/sheets/combat_sheet.jpg",
