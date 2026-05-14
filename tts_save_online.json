@@ -2618,7 +2618,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l1.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l1.png",
-        "Type": 1,
+        "Type": 3,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2642,7 +2642,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l2.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l2.png",
-        "Type": 1,
+        "Type": 3,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2666,7 +2666,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l3.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l3.png",
-        "Type": 1,
+        "Type": 3,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2690,7 +2690,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l4.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l4.png",
-        "Type": 1,
+        "Type": 3,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2714,7 +2714,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l7.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l7.png",
-        "Type": 1,
+        "Type": 3,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2738,7 +2738,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l8.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l8.png",
-        "Type": 1,
+        "Type": 3,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2762,7 +2762,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l9.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l9.png",
-        "Type": 1,
+        "Type": 3,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2786,7 +2786,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l10.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l10.png",
-        "Type": 1,
+        "Type": 3,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2810,7 +2810,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l13.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l13.png",
-        "Type": 1,
+        "Type": 3,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2834,7 +2834,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l14.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l14.png",
-        "Type": 1,
+        "Type": 3,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true
@@ -2858,7 +2858,7 @@
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l15.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l15.png",
-        "Type": 1,
+        "Type": 3,
         "Thickness": 0.1,
         "Stackable": false,
         "Stretch": true

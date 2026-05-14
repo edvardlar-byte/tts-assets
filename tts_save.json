@@ -3751,7 +3751,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -3778,7 +3778,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -3805,7 +3805,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -3832,7 +3832,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -3859,7 +3859,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -3886,7 +3886,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -3913,7 +3913,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -3940,7 +3940,7 @@
               "Name": "Card",
               "Nickname": "Soil Throw",
               "Description": "Assault | Value 3 | Off-lane -1",
-              "CardID": 1005,
+              "CardID": 1002,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -3985,7 +3985,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4012,7 +4012,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4039,7 +4039,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4066,7 +4066,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4093,7 +4093,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4120,7 +4120,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4147,7 +4147,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4174,7 +4174,7 @@
               "Name": "Card",
               "Nickname": "Gene Splice",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1007,
+              "CardID": 1004,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4219,7 +4219,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4246,7 +4246,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4273,7 +4273,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4300,7 +4300,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4327,7 +4327,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4354,7 +4354,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4381,7 +4381,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4408,7 +4408,7 @@
               "Name": "Card",
               "Nickname": "Hide in Plain Sight",
               "Description": "Cover | Value 4 | Off-lane -2",
-              "CardID": 1009,
+              "CardID": 1006,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4453,7 +4453,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4480,7 +4480,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4507,7 +4507,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4534,7 +4534,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4561,7 +4561,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4588,7 +4588,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4615,7 +4615,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4687,7 +4687,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4714,7 +4714,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4741,7 +4741,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4768,7 +4768,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4795,7 +4795,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4822,7 +4822,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4849,7 +4849,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4921,7 +4921,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4948,7 +4948,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -4975,7 +4975,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5002,7 +5002,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5029,7 +5029,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5056,7 +5056,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5083,7 +5083,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5155,7 +5155,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5182,7 +5182,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5209,6 +5209,141 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
+              "CardID": 1007,
+              "CustomDeck": {
+                "10": {
+                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
+                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "NumWidth": 10,
+                  "NumHeight": 8,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "Transform": {
+                "posX": 0,
+                "posY": 1,
+                "posZ": 0,
+                "rotX": 0,
+                "rotY": 0,
+                "rotZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "scaleZ": 1
+              }
+            },
+            {
+              "Name": "Card",
+              "Nickname": "Hold Ground",
+              "Description": "Cover | Value 3 | Off-lane -2",
+              "CardID": 1008,
+              "CustomDeck": {
+                "10": {
+                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
+                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "NumWidth": 10,
+                  "NumHeight": 8,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "Transform": {
+                "posX": 0,
+                "posY": 1,
+                "posZ": 0,
+                "rotX": 0,
+                "rotY": 0,
+                "rotZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "scaleZ": 1
+              }
+            },
+            {
+              "Name": "Card",
+              "Nickname": "Hold Ground",
+              "Description": "Cover | Value 3 | Off-lane -2",
+              "CardID": 1008,
+              "CustomDeck": {
+                "10": {
+                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
+                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "NumWidth": 10,
+                  "NumHeight": 8,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "Transform": {
+                "posX": 0,
+                "posY": 1,
+                "posZ": 0,
+                "rotX": 0,
+                "rotY": 0,
+                "rotZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "scaleZ": 1
+              }
+            },
+            {
+              "Name": "Card",
+              "Nickname": "Read the Fight",
+              "Description": "Momentum | Value 3 | Off-lane -1",
+              "CardID": 1009,
+              "CustomDeck": {
+                "10": {
+                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
+                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "NumWidth": 10,
+                  "NumHeight": 8,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "Transform": {
+                "posX": 0,
+                "posY": 1,
+                "posZ": 0,
+                "rotX": 0,
+                "rotY": 0,
+                "rotZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "scaleZ": 1
+              }
+            },
+            {
+              "Name": "Card",
+              "Nickname": "Read the Fight",
+              "Description": "Momentum | Value 3 | Off-lane -1",
+              "CardID": 1009,
+              "CustomDeck": {
+                "10": {
+                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
+                  "BackURL": "http://127.0.0.1:8765/back.png",
+                  "NumWidth": 10,
+                  "NumHeight": 8,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "Transform": {
+                "posX": 0,
+                "posY": 1,
+                "posZ": 0,
+                "rotX": 0,
+                "rotY": 0,
+                "rotZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "scaleZ": 1
+              }
+            },
+            {
+              "Name": "Card",
+              "Nickname": "Breath Read",
+              "Description": "Momentum | Value 4 | Off-lane -1",
               "CardID": 1000,
               "CustomDeck": {
                 "10": {
@@ -5234,144 +5369,9 @@
             },
             {
               "Name": "Card",
-              "Nickname": "Hold Ground",
-              "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
-              "CustomDeck": {
-                "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
-                  "NumWidth": 10,
-                  "NumHeight": 8,
-                  "BackIsHidden": true,
-                  "UniqueBack": false
-                }
-              },
-              "Transform": {
-                "posX": 0,
-                "posY": 1,
-                "posZ": 0,
-                "rotX": 0,
-                "rotY": 0,
-                "rotZ": 0,
-                "scaleX": 1,
-                "scaleY": 1,
-                "scaleZ": 1
-              }
-            },
-            {
-              "Name": "Card",
-              "Nickname": "Hold Ground",
-              "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
-              "CustomDeck": {
-                "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
-                  "NumWidth": 10,
-                  "NumHeight": 8,
-                  "BackIsHidden": true,
-                  "UniqueBack": false
-                }
-              },
-              "Transform": {
-                "posX": 0,
-                "posY": 1,
-                "posZ": 0,
-                "rotX": 0,
-                "rotY": 0,
-                "rotZ": 0,
-                "scaleX": 1,
-                "scaleY": 1,
-                "scaleZ": 1
-              }
-            },
-            {
-              "Name": "Card",
-              "Nickname": "Read the Fight",
-              "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
-              "CustomDeck": {
-                "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
-                  "NumWidth": 10,
-                  "NumHeight": 8,
-                  "BackIsHidden": true,
-                  "UniqueBack": false
-                }
-              },
-              "Transform": {
-                "posX": 0,
-                "posY": 1,
-                "posZ": 0,
-                "rotX": 0,
-                "rotY": 0,
-                "rotZ": 0,
-                "scaleX": 1,
-                "scaleY": 1,
-                "scaleZ": 1
-              }
-            },
-            {
-              "Name": "Card",
-              "Nickname": "Read the Fight",
-              "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
-              "CustomDeck": {
-                "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
-                  "NumWidth": 10,
-                  "NumHeight": 8,
-                  "BackIsHidden": true,
-                  "UniqueBack": false
-                }
-              },
-              "Transform": {
-                "posX": 0,
-                "posY": 1,
-                "posZ": 0,
-                "rotX": 0,
-                "rotY": 0,
-                "rotZ": 0,
-                "scaleX": 1,
-                "scaleY": 1,
-                "scaleZ": 1
-              }
-            },
-            {
-              "Name": "Card",
               "Nickname": "Breath Read",
               "Description": "Momentum | Value 4 | Off-lane -1",
-              "CardID": 1003,
-              "CustomDeck": {
-                "10": {
-                  "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
-                  "BackURL": "http://127.0.0.1:8765/back.png",
-                  "NumWidth": 10,
-                  "NumHeight": 8,
-                  "BackIsHidden": true,
-                  "UniqueBack": false
-                }
-              },
-              "Transform": {
-                "posX": 0,
-                "posY": 1,
-                "posZ": 0,
-                "rotX": 0,
-                "rotY": 0,
-                "rotZ": 0,
-                "scaleX": 1,
-                "scaleY": 1,
-                "scaleZ": 1
-              }
-            },
-            {
-              "Name": "Card",
-              "Nickname": "Breath Read",
-              "Description": "Momentum | Value 4 | Off-lane -1",
-              "CardID": 1003,
+              "CardID": 1000,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5416,7 +5416,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5443,7 +5443,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5470,7 +5470,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5497,7 +5497,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5524,7 +5524,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5551,7 +5551,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5578,7 +5578,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5650,7 +5650,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5677,7 +5677,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5704,7 +5704,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5731,7 +5731,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5758,7 +5758,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5785,7 +5785,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5812,7 +5812,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5884,7 +5884,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5911,7 +5911,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5938,7 +5938,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5965,7 +5965,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -5992,7 +5992,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6019,7 +6019,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6046,7 +6046,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6118,7 +6118,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6145,7 +6145,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6172,7 +6172,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6199,7 +6199,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6226,7 +6226,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6253,7 +6253,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6280,7 +6280,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6352,7 +6352,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6379,7 +6379,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6406,7 +6406,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6433,7 +6433,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6460,7 +6460,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6487,7 +6487,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6514,7 +6514,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6586,7 +6586,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6613,7 +6613,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6640,7 +6640,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6667,7 +6667,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6694,7 +6694,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6721,7 +6721,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6748,7 +6748,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6820,7 +6820,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6847,7 +6847,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6874,7 +6874,7 @@
               "Name": "Card",
               "Nickname": "Unarmed Assault",
               "Description": "Assault | Value 3 | Off-lane -2",
-              "CardID": 1000,
+              "CardID": 1007,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6901,7 +6901,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6928,7 +6928,7 @@
               "Name": "Card",
               "Nickname": "Hold Ground",
               "Description": "Cover | Value 3 | Off-lane -2",
-              "CardID": 1001,
+              "CardID": 1008,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6955,7 +6955,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -6982,7 +6982,7 @@
               "Name": "Card",
               "Nickname": "Read the Fight",
               "Description": "Momentum | Value 3 | Off-lane -1",
-              "CardID": 1002,
+              "CardID": 1009,
               "CustomDeck": {
                 "10": {
                   "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -7731,7 +7731,7 @@
           "Name": "Card",
           "Nickname": "Hound Lunge",
           "Description": "Assault | Value 4 | Off-lane -1\nIf this side wins Momentum this round, add 1 wound to one enemy troop.",
-          "CardID": 1008,
+          "CardID": 1005,
           "CustomDeck": {
             "10": {
               "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -7758,7 +7758,7 @@
           "Name": "Card",
           "Nickname": "Hound Lunge",
           "Description": "Assault | Value 4 | Off-lane -1\nIf this side wins Momentum this round, add 1 wound to one enemy troop.",
-          "CardID": 1008,
+          "CardID": 1005,
           "CustomDeck": {
             "10": {
               "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -7785,7 +7785,7 @@
           "Name": "Card",
           "Nickname": "Hound Lunge",
           "Description": "Assault | Value 4 | Off-lane -1\nIf this side wins Momentum this round, add 1 wound to one enemy troop.",
-          "CardID": 1008,
+          "CardID": 1005,
           "CustomDeck": {
             "10": {
               "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -8298,7 +8298,7 @@
           "Name": "Card",
           "Nickname": "Pale Raven Sweep",
           "Description": "Momentum | Value 4 | Off-lane -1",
-          "CardID": 1004,
+          "CardID": 1001,
           "CustomDeck": {
             "10": {
               "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -8325,7 +8325,7 @@
           "Name": "Card",
           "Nickname": "Pale Raven Sweep",
           "Description": "Momentum | Value 4 | Off-lane -1",
-          "CardID": 1004,
+          "CardID": 1001,
           "CustomDeck": {
             "10": {
               "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -8352,7 +8352,7 @@
           "Name": "Card",
           "Nickname": "Pale Raven Sweep",
           "Description": "Momentum | Value 4 | Off-lane -1",
-          "CardID": 1004,
+          "CardID": 1001,
           "CustomDeck": {
             "10": {
               "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -8379,7 +8379,7 @@
           "Name": "Card",
           "Nickname": "Pressure Shell",
           "Description": "Cover | Value 4 | Off-lane -2",
-          "CardID": 1006,
+          "CardID": 1003,
           "CustomDeck": {
             "10": {
               "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -8406,7 +8406,7 @@
           "Name": "Card",
           "Nickname": "Pressure Shell",
           "Description": "Cover | Value 4 | Off-lane -2",
-          "CardID": 1006,
+          "CardID": 1003,
           "CustomDeck": {
             "10": {
               "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
@@ -8433,7 +8433,7 @@
           "Name": "Card",
           "Nickname": "Pressure Shell",
           "Description": "Cover | Value 4 | Off-lane -2",
-          "CardID": 1006,
+          "CardID": 1003,
           "CustomDeck": {
             "10": {
               "FaceURL": "http://127.0.0.1:8765/sheets/combat_sheet.jpg",
