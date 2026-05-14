@@ -2650,36 +2650,12 @@
     },
     {
       "Name": "Custom_Token",
-      "Nickname": "Underhill Main Shaft",
-      "Description": "[home_base]  Fort 2  |  Food 1  |  Supply 2",
+      "Nickname": "Subcrust Magrail Station",
+      "Description": "[location]  Fort 1  |  Food 0  |  Supply 1",
       "Transform": {
         "posX": 15.9,
         "posY": 1,
         "posZ": 0.0,
-        "rotX": 0,
-        "rotY": 0,
-        "rotZ": 0,
-        "scaleX": 2.8,
-        "scaleY": 1,
-        "scaleZ": 2.8
-      },
-      "CustomImage": {
-        "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l3.png",
-        "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l3.png",
-        "Type": 0,
-        "Thickness": 0.2,
-        "MergeDistancePixels": 15,
-        "Stackable": false
-      }
-    },
-    {
-      "Name": "Custom_Token",
-      "Nickname": "Subcrust Magrail Station",
-      "Description": "[location]  Fort 1  |  Food 0  |  Supply 1",
-      "Transform": {
-        "posX": 9.5,
-        "posY": 1,
-        "posZ": 3.4,
         "rotX": 0,
         "rotY": 0,
         "rotZ": 0,
@@ -2701,7 +2677,7 @@
       "Nickname": "Noctis Administrative Nexus",
       "Description": "[home_base]  Fort 2  |  Food 2  |  Supply 1",
       "Transform": {
-        "posX": 12.7,
+        "posX": 9.5,
         "posY": 1,
         "posZ": 3.4,
         "rotX": 0,
@@ -2725,7 +2701,7 @@
       "Nickname": "Continental Survey Post",
       "Description": "[location]  Fort 1  |  Food 0  |  Supply 1",
       "Transform": {
-        "posX": 15.9,
+        "posX": 12.7,
         "posY": 1,
         "posZ": 3.4,
         "rotX": 0,
@@ -2746,36 +2722,12 @@
     },
     {
       "Name": "Custom_Token",
-      "Nickname": "The Bradbury Atheneum",
-      "Description": "[home_base]  Fort 2  |  Food 2  |  Supply 1",
-      "Transform": {
-        "posX": 9.5,
-        "posY": 1,
-        "posZ": 6.8,
-        "rotX": 0,
-        "rotY": 0,
-        "rotZ": 0,
-        "scaleX": 2.8,
-        "scaleY": 1,
-        "scaleZ": 2.8
-      },
-      "CustomImage": {
-        "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l9.png",
-        "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l9.png",
-        "Type": 0,
-        "Thickness": 0.2,
-        "MergeDistancePixels": 15,
-        "Stackable": false
-      }
-    },
-    {
-      "Name": "Custom_Token",
       "Nickname": "The Kepler Array",
       "Description": "[location]  Fort 1  |  Food 0  |  Supply 1",
       "Transform": {
-        "posX": 12.7,
+        "posX": 15.9,
         "posY": 1,
-        "posZ": 6.8,
+        "posZ": 3.4,
         "rotX": 0,
         "rotY": 0,
         "rotZ": 0,
@@ -2797,7 +2749,7 @@
       "Nickname": "Elysium Excavation Site",
       "Description": "[neutral]  Fort 1  |  Food 0  |  Supply 2",
       "Transform": {
-        "posX": 15.9,
+        "posX": 9.5,
         "posY": 1,
         "posZ": 6.8,
         "rotX": 0,
@@ -2821,9 +2773,9 @@
       "Nickname": "Isidis Aquifer Camp",
       "Description": "[neutral]  Fort 0  |  Food 2  |  Supply 0",
       "Transform": {
-        "posX": 9.5,
+        "posX": 12.7,
         "posY": 1,
-        "posZ": 10.2,
+        "posZ": 6.8,
         "rotX": 0,
         "rotY": 0,
         "rotZ": 0,
@@ -2845,9 +2797,9 @@
       "Nickname": "Chryse Relay Post",
       "Description": "[neutral]  Fort 2  |  Food 0  |  Supply 0",
       "Transform": {
-        "posX": 12.7,
+        "posX": 15.9,
         "posY": 1,
-        "posZ": 10.2,
+        "posZ": 6.8,
         "rotX": 0,
         "rotY": 0,
         "rotZ": 0,

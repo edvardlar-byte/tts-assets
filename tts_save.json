@@ -2578,36 +2578,13 @@
       }
     },
     {
-      "Name": "Custom_Tile",
-      "Nickname": "The Long Road \u2014 Map",
-      "Transform": {
-        "posX": 0,
-        "posY": 0.2,
-        "posZ": 6,
-        "rotX": 0,
-        "rotY": 0,
-        "rotZ": 0,
-        "scaleX": 16,
-        "scaleY": 1,
-        "scaleZ": 12.8
-      },
-      "CustomImage": {
-        "ImageURL": "http://127.0.0.1:8765/board.jpg",
-        "ImageSecondaryURL": "http://127.0.0.1:8765/board.jpg",
-        "Type": 2,
-        "Thickness": 0.1,
-        "Stackable": false,
-        "Stretch": true
-      }
-    },
-    {
       "Name": "Custom_Token",
-      "Nickname": "Hellas Grove",
+      "Nickname": "[HB_A] Hellas Grove",
       "Description": "[home_base]  Fort 2  |  Food 2  |  Supply 1",
       "Transform": {
-        "posX": 9.5,
-        "posY": 1,
-        "posZ": 0.0,
+        "posX": 0.0,
+        "posY": 0.3,
+        "posZ": 1.5,
         "rotX": 0,
         "rotY": 0,
         "rotZ": 0,
@@ -2626,60 +2603,12 @@
     },
     {
       "Name": "Custom_Token",
-      "Nickname": "Xenobiology Station",
-      "Description": "[location]  Fort 1  |  Food 1  |  Supply 1",
-      "Transform": {
-        "posX": 12.7,
-        "posY": 1,
-        "posZ": 0.0,
-        "rotX": 0,
-        "rotY": 0,
-        "rotZ": 0,
-        "scaleX": 2.8,
-        "scaleY": 1,
-        "scaleZ": 2.8
-      },
-      "CustomImage": {
-        "ImageURL": "http://127.0.0.1:8765/tiles/l2.png",
-        "ImageSecondaryURL": "http://127.0.0.1:8765/tiles/l2.png",
-        "Type": 0,
-        "Thickness": 0.2,
-        "MergeDistancePixels": 15,
-        "Stackable": false
-      }
-    },
-    {
-      "Name": "Custom_Token",
-      "Nickname": "Subcrust Magrail Station",
-      "Description": "[location]  Fort 1  |  Food 0  |  Supply 1",
-      "Transform": {
-        "posX": 15.9,
-        "posY": 1,
-        "posZ": 0.0,
-        "rotX": 0,
-        "rotY": 0,
-        "rotZ": 0,
-        "scaleX": 2.8,
-        "scaleY": 1,
-        "scaleZ": 2.8
-      },
-      "CustomImage": {
-        "ImageURL": "http://127.0.0.1:8765/tiles/l4.png",
-        "ImageSecondaryURL": "http://127.0.0.1:8765/tiles/l4.png",
-        "Type": 0,
-        "Thickness": 0.2,
-        "MergeDistancePixels": 15,
-        "Stackable": false
-      }
-    },
-    {
-      "Name": "Custom_Token",
-      "Nickname": "Noctis Administrative Nexus",
+      "Nickname": "[HB_B] Noctis Administrative Nexus",
       "Description": "[home_base]  Fort 2  |  Food 2  |  Supply 1",
       "Transform": {
-        "posX": 9.5,
-        "posY": 1,
-        "posZ": 3.4,
+        "posX": 0.0,
+        "posY": 0.3,
+        "posZ": 10.4,
         "rotX": 0,
         "rotY": 0,
         "rotZ": 0,
@@ -2698,12 +2627,60 @@
     },
     {
       "Name": "Custom_Token",
-      "Nickname": "Continental Survey Post",
+      "Nickname": "[A1] Xenobiology Station",
+      "Description": "[location]  Fort 1  |  Food 1  |  Supply 1",
+      "Transform": {
+        "posX": -2.6,
+        "posY": 0.3,
+        "posZ": 3.7,
+        "rotX": 0,
+        "rotY": 0,
+        "rotZ": 0,
+        "scaleX": 2.8,
+        "scaleY": 1,
+        "scaleZ": 2.8
+      },
+      "CustomImage": {
+        "ImageURL": "http://127.0.0.1:8765/tiles/l2.png",
+        "ImageSecondaryURL": "http://127.0.0.1:8765/tiles/l2.png",
+        "Type": 0,
+        "Thickness": 0.2,
+        "MergeDistancePixels": 15,
+        "Stackable": false
+      }
+    },
+    {
+      "Name": "Custom_Token",
+      "Nickname": "[A2] Subcrust Magrail Station",
       "Description": "[location]  Fort 1  |  Food 0  |  Supply 1",
       "Transform": {
-        "posX": 12.7,
-        "posY": 1,
-        "posZ": 3.4,
+        "posX": 2.6,
+        "posY": 0.3,
+        "posZ": 3.7,
+        "rotX": 0,
+        "rotY": 0,
+        "rotZ": 0,
+        "scaleX": 2.8,
+        "scaleY": 1,
+        "scaleZ": 2.8
+      },
+      "CustomImage": {
+        "ImageURL": "http://127.0.0.1:8765/tiles/l4.png",
+        "ImageSecondaryURL": "http://127.0.0.1:8765/tiles/l4.png",
+        "Type": 0,
+        "Thickness": 0.2,
+        "MergeDistancePixels": 15,
+        "Stackable": false
+      }
+    },
+    {
+      "Name": "Custom_Token",
+      "Nickname": "[B1] Continental Survey Post",
+      "Description": "[location]  Fort 1  |  Food 0  |  Supply 1",
+      "Transform": {
+        "posX": -2.6,
+        "posY": 0.3,
+        "posZ": 8.2,
         "rotX": 0,
         "rotY": 0,
         "rotZ": 0,
@@ -2722,12 +2699,12 @@
     },
     {
       "Name": "Custom_Token",
-      "Nickname": "The Kepler Array",
+      "Nickname": "[B2] The Kepler Array",
       "Description": "[location]  Fort 1  |  Food 0  |  Supply 1",
       "Transform": {
-        "posX": 15.9,
-        "posY": 1,
-        "posZ": 3.4,
+        "posX": 2.6,
+        "posY": 0.3,
+        "posZ": 8.2,
         "rotX": 0,
         "rotY": 0,
         "rotZ": 0,
@@ -2746,12 +2723,12 @@
     },
     {
       "Name": "Custom_Token",
-      "Nickname": "Elysium Excavation Site",
+      "Nickname": "[N1] Elysium Excavation Site",
       "Description": "[neutral]  Fort 1  |  Food 0  |  Supply 2",
       "Transform": {
-        "posX": 9.5,
-        "posY": 1,
-        "posZ": 6.8,
+        "posX": -5.1,
+        "posY": 0.3,
+        "posZ": 6.0,
         "rotX": 0,
         "rotY": 0,
         "rotZ": 0,
@@ -2770,12 +2747,12 @@
     },
     {
       "Name": "Custom_Token",
-      "Nickname": "Isidis Aquifer Camp",
+      "Nickname": "[N2] Isidis Aquifer Camp",
       "Description": "[neutral]  Fort 0  |  Food 2  |  Supply 0",
       "Transform": {
-        "posX": 12.7,
-        "posY": 1,
-        "posZ": 6.8,
+        "posX": 0.0,
+        "posY": 0.3,
+        "posZ": 6.0,
         "rotX": 0,
         "rotY": 0,
         "rotZ": 0,
@@ -2794,12 +2771,12 @@
     },
     {
       "Name": "Custom_Token",
-      "Nickname": "Chryse Relay Post",
+      "Nickname": "[N3] Chryse Relay Post",
       "Description": "[neutral]  Fort 2  |  Food 0  |  Supply 0",
       "Transform": {
-        "posX": 15.9,
-        "posY": 1,
-        "posZ": 6.8,
+        "posX": 5.1,
+        "posY": 0.3,
+        "posZ": 6.0,
         "rotX": 0,
         "rotY": 0,
         "rotZ": 0,
