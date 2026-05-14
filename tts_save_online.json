@@ -2601,7 +2601,7 @@
       }
     },
     {
-      "Name": "Custom_Tile",
+      "Name": "Custom_Token",
       "Nickname": "Hellas Grove",
       "Description": "[home_base]  Fort 2  |  Food 2  |  Supply 1",
       "Transform": {
@@ -2613,19 +2613,19 @@
         "rotZ": 0,
         "scaleX": 2.8,
         "scaleY": 1,
-        "scaleZ": 3.24
+        "scaleZ": 2.8
       },
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l1.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l1.png",
-        "Type": 1,
-        "Thickness": 0.1,
-        "Stackable": false,
-        "Stretch": true
+        "Type": 0,
+        "Thickness": 0.2,
+        "MergeDistancePixels": 15,
+        "Stackable": false
       }
     },
     {
-      "Name": "Custom_Tile",
+      "Name": "Custom_Token",
       "Nickname": "Xenobiology Station",
       "Description": "[location]  Fort 1  |  Food 1  |  Supply 1",
       "Transform": {
@@ -2637,19 +2637,19 @@
         "rotZ": 0,
         "scaleX": 2.8,
         "scaleY": 1,
-        "scaleZ": 3.24
+        "scaleZ": 2.8
       },
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l2.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l2.png",
-        "Type": 1,
-        "Thickness": 0.1,
-        "Stackable": false,
-        "Stretch": true
+        "Type": 0,
+        "Thickness": 0.2,
+        "MergeDistancePixels": 15,
+        "Stackable": false
       }
     },
     {
-      "Name": "Custom_Tile",
+      "Name": "Custom_Token",
       "Nickname": "Underhill Main Shaft",
       "Description": "[home_base]  Fort 2  |  Food 1  |  Supply 2",
       "Transform": {
@@ -2661,19 +2661,19 @@
         "rotZ": 0,
         "scaleX": 2.8,
         "scaleY": 1,
-        "scaleZ": 3.24
+        "scaleZ": 2.8
       },
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l3.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l3.png",
-        "Type": 1,
-        "Thickness": 0.1,
-        "Stackable": false,
-        "Stretch": true
+        "Type": 0,
+        "Thickness": 0.2,
+        "MergeDistancePixels": 15,
+        "Stackable": false
       }
     },
     {
-      "Name": "Custom_Tile",
+      "Name": "Custom_Token",
       "Nickname": "Subcrust Magrail Station",
       "Description": "[location]  Fort 1  |  Food 0  |  Supply 1",
       "Transform": {
@@ -2685,19 +2685,19 @@
         "rotZ": 0,
         "scaleX": 2.8,
         "scaleY": 1,
-        "scaleZ": 3.24
+        "scaleZ": 2.8
       },
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l4.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l4.png",
-        "Type": 1,
-        "Thickness": 0.1,
-        "Stackable": false,
-        "Stretch": true
+        "Type": 0,
+        "Thickness": 0.2,
+        "MergeDistancePixels": 15,
+        "Stackable": false
       }
     },
     {
-      "Name": "Custom_Tile",
+      "Name": "Custom_Token",
       "Nickname": "Noctis Administrative Nexus",
       "Description": "[home_base]  Fort 2  |  Food 2  |  Supply 1",
       "Transform": {
@@ -2709,19 +2709,19 @@
         "rotZ": 0,
         "scaleX": 2.8,
         "scaleY": 1,
-        "scaleZ": 3.24
+        "scaleZ": 2.8
       },
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l7.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l7.png",
-        "Type": 1,
-        "Thickness": 0.1,
-        "Stackable": false,
-        "Stretch": true
+        "Type": 0,
+        "Thickness": 0.2,
+        "MergeDistancePixels": 15,
+        "Stackable": false
       }
     },
     {
-      "Name": "Custom_Tile",
+      "Name": "Custom_Token",
       "Nickname": "Continental Survey Post",
       "Description": "[location]  Fort 1  |  Food 0  |  Supply 1",
       "Transform": {
@@ -2733,19 +2733,19 @@
         "rotZ": 0,
         "scaleX": 2.8,
         "scaleY": 1,
-        "scaleZ": 3.24
+        "scaleZ": 2.8
       },
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l8.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l8.png",
-        "Type": 1,
-        "Thickness": 0.1,
-        "Stackable": false,
-        "Stretch": true
+        "Type": 0,
+        "Thickness": 0.2,
+        "MergeDistancePixels": 15,
+        "Stackable": false
       }
     },
     {
-      "Name": "Custom_Tile",
+      "Name": "Custom_Token",
       "Nickname": "The Bradbury Atheneum",
       "Description": "[home_base]  Fort 2  |  Food 2  |  Supply 1",
       "Transform": {
@@ -2757,19 +2757,19 @@
         "rotZ": 0,
         "scaleX": 2.8,
         "scaleY": 1,
-        "scaleZ": 3.24
+        "scaleZ": 2.8
       },
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l9.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l9.png",
-        "Type": 1,
-        "Thickness": 0.1,
-        "Stackable": false,
-        "Stretch": true
+        "Type": 0,
+        "Thickness": 0.2,
+        "MergeDistancePixels": 15,
+        "Stackable": false
       }
     },
     {
-      "Name": "Custom_Tile",
+      "Name": "Custom_Token",
       "Nickname": "The Kepler Array",
       "Description": "[location]  Fort 1  |  Food 0  |  Supply 1",
       "Transform": {
@@ -2781,19 +2781,19 @@
         "rotZ": 0,
         "scaleX": 2.8,
         "scaleY": 1,
-        "scaleZ": 3.24
+        "scaleZ": 2.8
       },
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l10.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l10.png",
-        "Type": 1,
-        "Thickness": 0.1,
-        "Stackable": false,
-        "Stretch": true
+        "Type": 0,
+        "Thickness": 0.2,
+        "MergeDistancePixels": 15,
+        "Stackable": false
       }
     },
     {
-      "Name": "Custom_Tile",
+      "Name": "Custom_Token",
       "Nickname": "Elysium Excavation Site",
       "Description": "[neutral]  Fort 1  |  Food 0  |  Supply 2",
       "Transform": {
@@ -2805,19 +2805,19 @@
         "rotZ": 0,
         "scaleX": 2.8,
         "scaleY": 1,
-        "scaleZ": 3.24
+        "scaleZ": 2.8
       },
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l13.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l13.png",
-        "Type": 1,
-        "Thickness": 0.1,
-        "Stackable": false,
-        "Stretch": true
+        "Type": 0,
+        "Thickness": 0.2,
+        "MergeDistancePixels": 15,
+        "Stackable": false
       }
     },
     {
-      "Name": "Custom_Tile",
+      "Name": "Custom_Token",
       "Nickname": "Isidis Aquifer Camp",
       "Description": "[neutral]  Fort 0  |  Food 2  |  Supply 0",
       "Transform": {
@@ -2829,19 +2829,19 @@
         "rotZ": 0,
         "scaleX": 2.8,
         "scaleY": 1,
-        "scaleZ": 3.24
+        "scaleZ": 2.8
       },
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l14.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l14.png",
-        "Type": 1,
-        "Thickness": 0.1,
-        "Stackable": false,
-        "Stretch": true
+        "Type": 0,
+        "Thickness": 0.2,
+        "MergeDistancePixels": 15,
+        "Stackable": false
       }
     },
     {
-      "Name": "Custom_Tile",
+      "Name": "Custom_Token",
       "Nickname": "Chryse Relay Post",
       "Description": "[neutral]  Fort 2  |  Food 0  |  Supply 0",
       "Transform": {
@@ -2853,15 +2853,15 @@
         "rotZ": 0,
         "scaleX": 2.8,
         "scaleY": 1,
-        "scaleZ": 3.24
+        "scaleZ": 2.8
       },
       "CustomImage": {
         "ImageURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l15.png",
         "ImageSecondaryURL": "https://edvardlar-byte.github.io/tts-assets/tiles/l15.png",
-        "Type": 1,
-        "Thickness": 0.1,
-        "Stackable": false,
-        "Stretch": true
+        "Type": 0,
+        "Thickness": 0.2,
+        "MergeDistancePixels": 15,
+        "Stackable": false
       }
     },
     {
